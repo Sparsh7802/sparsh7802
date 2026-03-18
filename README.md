@@ -1,5 +1,5 @@
 # 💫 About Me:
-Final-year Computer Science student and aspiring full-stack developer with a strong foundation in Python, data structures, and algorithms. Passionate about building efficient, scalable applications and continuously improving problem-solving skills. Always eager to learn new technologies and contribute to impactful projects.<br>
+Final-year Computer Science student and aspiring full-stack developer with a strong foundation in Python, data structures, and algorithms. Passionate about building efficient, Always eager to learn new technologies and contribute to impactful projects.<br>
 
 
 ## 🌐 Socials:
